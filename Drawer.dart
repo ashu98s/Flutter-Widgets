@@ -1,4 +1,4 @@
-// App Drawer
+// App Drawer Widget
 class MyDrawer extends StatelessWidget{
     @override
     widget build(BuildContext context){
